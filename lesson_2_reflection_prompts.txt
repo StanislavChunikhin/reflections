@@ -1,0 +1,23 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+  Когда мы создаем репозиторий мы сразу создаем папку с историей изменений которые потом мы можем изменять и возвращаться к предыдущим версиям своих программ.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+  Думаю что stagin area это промежуточная папка в которой находятся файлы еще не включенные в историю но уже находящиеся в репозитории.
+  Это подготовка к комиту, туда входят файлы которые вы собираетесь закомитить. если в вашей рабочей папки много файлов но вы не хотите делать комит со всеми ими, то в staging area как раз то место куда можно их поместить.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?

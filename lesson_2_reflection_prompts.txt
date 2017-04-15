@@ -10,14 +10,24 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+  Staging area это буферная зона для проверки результатов ваших изменений.
+  git позволяет не делать напрямую комит из рабочей директории, а позволяет делать только те изменения которые вы хотите внести в определенный комит, а что то в следующий коммит.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+  Branches помогают нам разветвлять наш проект если мы захотели сделать какой нибудь эксперимент или попробовать внести в нашу программу что то новое.
+
 How do the diagrams help you visualize the branch structure?
+
+  диаграммы помогают нам наглядно увидеть нашу структуру проекта и историю всего репозитория, что когда и где были сделаны изменения. Какие новые ветви открыты.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+  Объединение двух ветвей в одну позволяет соединить работу двух человек, которые работали над одним проектом, но над разными задачами. В графической диаграме это можно легко увидеть.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+  Плюсами автоматического объединения веток являются то что программа сама объединяет то что можно сделать автоматически и ты не тратишь на это время и соответсвенно, это все делается более точно. А то что программа не может объединить автоматически, можно сделать самому.

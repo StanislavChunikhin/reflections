@@ -21,9 +21,9 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Git hub помогает разрабатьвать код и программы, работая над ними в комманде удаленно по всему миру. 
+    Git hub помогает разрабатьвать код и программы, работая над ними в комманде удаленно по всему миру.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Вносить изменения в действующую ветку master не всегда нужно сразу. Если вы хотите попробовать новые возможности программы или испытать новый программный код, то можно создать новую отдельную ветку и проводить эксперименты там.
